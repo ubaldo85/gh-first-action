@@ -1,5 +1,5 @@
 name: First Workflow
-on: workflow_dispath
+on: workflow_dispatch
 jobs:
   firts-job:
    runs-on: ubuntu-latest
